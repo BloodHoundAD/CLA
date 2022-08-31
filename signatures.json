@@ -1,3 +1,20 @@
 {
-   "signedContributors": []
+  "signedContributors": [
+    {
+      "name": "ddlees",
+      "id": 8984872,
+      "comment_id": 1231004527,
+      "created_at": "2022-08-30T00:26:39Z",
+      "repoId": 496736618,
+      "pullRequestNo": 11
+    },
+    {
+      "name": "ddlees",
+      "id": 8984872,
+      "comment_id": 1233092988,
+      "created_at": "2022-08-31T15:30:37Z",
+      "repoId": 496736618,
+      "pullRequestNo": 11
+    }
+  ]
 }
