@@ -64,3 +64,5 @@ the Project Manager, You reserve all right, title, and interest in and to Your C
 
 8. You agree to notify the Project Manager of any facts or circumstances of which you become aware that would make these
   representations inaccurate in any respect. 
+
+I have read the CLA Document and I hereby sign the CLA
